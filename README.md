@@ -1,3 +1,1 @@
-# IOT-Sensor
-
-The goal of this project is to communicate with an IOT sensor, storing information, and sending notifications.
+This repo is being used for personal learning.
